@@ -19,9 +19,9 @@ Or install it yourself as:
     $ gem install farribas_view_tool
 
 ## Usage
-
-TODO: Write usage instructions here
-
+```ruby
+FarribasViewTool::Renderer.copyright 'Federico Arribas', 'All rights reserved'
+```
 ## Development
 
 After checking out the repo, run `bin/setup` to install dependencies. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
